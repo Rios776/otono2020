@@ -1,0 +1,28 @@
+#container {width:400px;
+    height: 600px;
+    margin: 40px auto;
+    position: relative;
+    border-radius: 100px;
+    border:10px double burlywood;
+    background-color: rgba(245, 245, 220, 0.657);
+    padding: 20px;
+    font-family:'Itim-Regular';
+    top: 300px;
+    left: 540px;
+    text-align: center;
+    font-size: 2em;
+
+}
+body {
+    background-image: url('portada/Portada-de-otoño.jpg');
+    width: 1400px;
+    height: 1400px;
+    background-size: cover;
+
+}
+@font-face {
+    font-family:'Itim-Regular' ;
+    src: url(fuentes/Itim-Regular.ttf);
+}
+#titulo {color: black;}
+#parrafo {color: black}
